@@ -32,7 +32,6 @@ I love ***learning***, ***digital transformation***, ***discovering*** things in
 <p align="center">
 <i><b>Programming Languages I know and already use</b></i>
   <br><br>
-  <img align="center" src="languages/c.svg" alt="pluralsight" width="50px">&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="pluralsight" width="50px">&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pluralsight" width="50px">&nbsp;
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="pluralsight" width="50px">&nbsp;
@@ -50,7 +49,6 @@ I love ***learning***, ***digital transformation***, ***discovering*** things in
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px"/>
   <img align="center" src="languages/mongodb.svg" width="50px"/>
   <img align="center" src="languages/mysql.svg" width="50px"/>
-  <img align="center" src="languages/mariadb.svg" width="50px"/>
 </p>
 
 ---
