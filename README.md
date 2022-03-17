@@ -16,7 +16,7 @@
   <i>
 
 I'm **passionate** about **programming** and **computer science** in general.
-I love ***learning***, ***digital transformation***, ***discovering*** things in ***computer science*** to be able to contribute to ***projects*** with a possible impact on the ***population***
+I love ***learning***, ***digital transformation***, ***discovering*** things in ***computer science*** to be able to contribute to ***projects*** with a possible impact on the ***population***.My biggest dream is to impact the world through code
 
   </i>
 </p>
