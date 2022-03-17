@@ -1,6 +1,6 @@
 <h2 align='center'>
   <samp>
-    <strong>Hi🤙🏿, I'm BMZU (BOKO Marc  Zinsou Uriel )</strong>
+    <strong>Hi🤙, I'm BMZU (BOKO Marc  Zinsou Uriel )</strong>
   </samp>
 </h2>
 
