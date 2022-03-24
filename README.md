@@ -24,8 +24,10 @@ I love ***learning***, ***digital transformation***, ***discovering*** things in
 ---
 
 - 🎓 I'm currently a  student at Coding Academy [Epitech] Bénin (https://epitech.bj)
+- - 💫 I'm currently doing a part-time at [Ylomi](https://www.ylomi.net/)
 - ⚡ Fun fact: I am very organized
-- 📫 How to reach me: **marcboko.uriel@gmail.com**
+- 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
+
 
 ---
 
