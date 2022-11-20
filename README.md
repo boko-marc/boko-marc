@@ -23,8 +23,8 @@ I love ***learning***, ***digital transformation***, ***discovering*** things in
 
 ---
 
-- 🎓 I'm currently a  student at Coding Academy [Epitech] Bénin (https://epitech.bj)
-- - 💫 I'm currently doing a part-time at [Ylomi](https://www.ylomi.net/)
+- 🎓 I have  a BAC + 3 in software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
+- - 💫 I'm currently fullStack developer at [Ylomi](https://www.ylomi.net/) i work with Laravel and Nest js in Backend and Vue js in frontend
 - ⚡ Fun fact: I am very organized
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
 
