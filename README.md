@@ -16,14 +16,14 @@
   <i>
 
 I'm **passionate** about **programming** and **computer science** in general.
-I love ***learning***, ***digital transformation***, ***discovering*** things in ***computer science*** to be able to contribute to ***projects*** with a possible impact on the ***population***.My biggest dream is to impact the world through code
+I love ***learning***, ***digital transformation***,   and ***clean architecture, TDD ***, ***discovering***  .My biggest dream is to impact the world through code
 
   </i>
 </p>
 
 ---
 
-- 🎓 I have  a BAC + 3 in software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
+- 🎓 I have  a BAC + 3 in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
 - - 💫 I'm currently fullStack developer at [Ylomi](https://www.ylomi.net/) i work with Laravel and Nest js in Backend and Vue js in frontend
 - ⚡ Fun fact: I am very organized
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
