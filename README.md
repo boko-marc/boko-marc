@@ -14,17 +14,14 @@
 
 <p>
   <i>
-
-I'm **passionate** about **programming** and **computer science** in general.
-I love ***learning***, ***digital transformation***,   and ***clean architecture, TDD ***, ***discovering***  .My biggest dream is to impact the world through code
-
+**Passionate** about science and technology, I specialized as a backend software engineer. As a **mathematician**, my analytical thinking and problem-solving skills enable me to apply coding best practices in order to create high-quality products.
   </i>
 </p>
 
 ---
+- 🎓 I have a Bachelor's degree in Applied Mathematics and Computer Science.
 
-- 🎓 I have  a BAC + 3 in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
-- - 💫 I'm currently fullStack developer at [Ylomi](https://www.ylomi.net/) i work with Laravel and Nest js in Backend and Vue js in frontend
+- 🎓 I have  a BAC + 3(Coding Academy) in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
 - ⚡ Fun fact: I am very organized
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
 
