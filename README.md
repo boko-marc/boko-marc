@@ -1,16 +1,10 @@
-<h2 align='center'>
-  <samp>
-    <strong>Hi🤙, I'm BOKO Marc Uriel )</strong>
-  </samp>
-</h2>
+Hi 👋 My name is BOKO Marc Uriel
+=================================
 
----
+Backend Software Engineer
+-------------------------
 
-<p align="center">
-<img src="assets/init.svg" width="250">
-</p>
 
----
 
 <p>
   <i>
@@ -19,14 +13,16 @@
 </p>
 
 ---
+*   🌍  I work remotely.
+
 - 🎓 I have a Bachelor's degree in Applied Mathematics and Computer Science.
 
-- 🎓 I have  a BAC + 3(Coding Academy) in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
-- ⚡ Fun fact: I am very organized
+- 🎓 I have  a Coding Academy Certification in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
+
+- ⚡ Fun fact: I loved write testable and maintenable code to build Saas or any projects
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
+ 🤝  I'm open to collaborating on Saas projects or any interesting products.
 
-
----
 
 <p align="center">
 <i><b>Programming Languages I know and already use</b></i>
@@ -55,6 +51,14 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=boko-marc&theme=onedark" />
 </p>
+
+---
+
+
+[![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcboko.uriel)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarcbokoUriel/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-uriel-zinsou-boko//)
+[![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](marcboko.uriel@gmail.com)
 
 ---
 
