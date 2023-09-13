@@ -6,7 +6,7 @@ Backend Software Engineer
 
 
 
-<p>
+<p class="text-align:center">
   <i>
 **Passionate** about science and technology, I specialized as a backend software engineer. As a **mathematician**, my analytical thinking and problem-solving skills enable me to apply coding best practices in order to create high-quality products.
   </i>
@@ -21,7 +21,7 @@ Backend Software Engineer
 
 - ⚡ Fun fact: I loved write testable and maintenable code to build Saas or any projects
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
- 🤝  I'm open to collaborating on Saas projects or any interesting products.
+ -🤝  I'm open to collaborating on Saas projects or any interesting products.
 
 
 <p align="center">
