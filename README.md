@@ -41,7 +41,8 @@ Backend Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/boko-marc"><img src="https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="boko-marc's GitHub stats" /></a>
+<a href="http://www.github.com/koladev32"><img src="https://github-readme-stats.vercel.app/api?username=koladev32&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="koladev32's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/boko-marc"><img src="https://github-readme-streak-stats.vercel.app/api?user=boko-marc&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
