@@ -21,7 +21,7 @@ Backend Software Engineer
 
 - ⚡ Fun fact: I loved write testable and maintenable code to build Saas or any projects
 - 📫 How to reach me: **marcboko.uriel.com**  or **marc-uriel-zinsou.boko@epitech.eu** 
- -🤝  I'm open to collaborating on Saas projects or any interesting products.
+*  🤝  I'm open to collaborating on Saas projects or any interesting products.
 
 
 ### Skills
