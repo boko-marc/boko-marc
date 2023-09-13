@@ -49,7 +49,7 @@ Backend Software Engineer
 <a href="http://www.github.com/boko-marc"><img src="https://activity-graph.herokuapp.com/graph?username=boko-marc&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Most used languages
-![BOKO Marc GitHub stats](https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&theme=transparent)
+![BOKO Marc GitHub stats](https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide_border=true&&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=truetheme=transparent)
 
 ### Top lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boko-marc&layout=donut-vertical)](https://github.com/boko-marc/github-readme-stats)
