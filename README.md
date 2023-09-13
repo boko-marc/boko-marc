@@ -26,10 +26,11 @@ Backend Software Engineer
 
 ### Skills
 
-<img src="https://skillicons.dev/icons?i=js,ts,php,python,laravel,nestjs,html,css,vuejs,nuxtjs,nodejs,postgres,git&perline=5" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,laravel,nestjs,html,css,vuejs,nuxtjs,nodejs,postgres,git&perline=8" alt="Tech Stack" /> 
 
                     
-
+## Most used languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boko-marc&layout=compact&theme=tokyonight&langs_count=6" />
 
 
 
