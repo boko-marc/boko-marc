@@ -30,8 +30,7 @@ Backend Software Engineer
 
                     
 ### Most used languages
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
-
+![BOKO Marc GitHub stats](https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&theme=transparent)
 
 
 
