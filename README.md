@@ -39,19 +39,10 @@ Backend Software Engineer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/bokoo-marc"><img src="https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="boko-marc's GitHub stats" /></a>
-
-
-<a href="http://www.github.com/boko-marc"><img src="https://github-readme-streak-stats.vercel.app/api?user=boko-marc&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="http://www.github.com/boko-marc"><img src="https://activity-graph.herokuapp.com/graph?username=boko-marc&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 ### Most used languages
 ![BOKO Marc GitHub stats](https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide_border=true&&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=truetheme=transparent)
 
-### Top lang
+### Top langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boko-marc&layout=donut-vertical)](https://github.com/boko-marc/github-readme-stats)
 <h3 align="center">
 
