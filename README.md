@@ -6,7 +6,7 @@ Backend Software Engineer
 
 
 
-<p class="text-align:center">
+<p align="center">
   <i>
 **Passionate** about science and technology, I specialized as a backend software engineer. As a **mathematician**, my analytical thinking and problem-solving skills enable me to apply coding best practices in order to create high-quality products.
   </i>
@@ -24,43 +24,35 @@ Backend Software Engineer
  -🤝  I'm open to collaborating on Saas projects or any interesting products.
 
 
-<p align="center">
-<i><b>Programming Languages I know and already use</b></i>
-  <br><br>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="pluralsight" width="50px">&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="pluralsight" width="50px">&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="pluralsight" width="50px">&nbsp;
-</p>
+### Skills
 
-<hr>
+<img src="https://skillicons.dev/icons?i=js,ts,php,python,laravel,nestjs,html,css,vuejs,nuxtjs,nodejs,postgres,git&perline=5" alt="Tech Stack" /> 
 
-<p align="center">
-<i><b>Frontend, Mobile, Database</b></i>
-  <br><br>
-  <img align="center" src="languages/html-5.svg" width="50px" />&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" />&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/>
-  <img align="center" src="languages/css3.svg" width="50px" />&nbsp;
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="50px"/>
-  <img align="center" src="languages/mongodb.svg" width="50px"/>
-  <img align="center" src="languages/mysql.svg" width="50px"/>
-</p>
-
----
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=boko-marc&theme=onedark" />
-</p>
-
----
+                    
 
 
+
+
+
+
+## Socials
 [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@marcboko.uriel)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MarcbokoUriel/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-uriel-zinsou-boko//)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](marcboko.uriel@gmail.com)
 
----
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/boko-marc"><img src="https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="boko-marc's GitHub stats" /></a>
+
+<a href="http://www.github.com/boko-marc"><img src="https://github-readme-streak-stats.herokuapp.com/?user=boko-marc&stroke=000000&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=000000&currStreakLabel=6366f1&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="http://www.github.com/boko-marc"><img src="https://activity-graph.herokuapp.com/graph?username=boko-marc&bg_color=ffffff&color=000000&line=6366f1&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/boko-marc" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boko-marc&langs_count=10&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
