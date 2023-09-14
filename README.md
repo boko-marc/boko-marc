@@ -37,9 +37,8 @@ Backend Software Engineer
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](marcboko.uriel@gmail.com)
 
 
-### Badges
+### Github Stats
 
-### Most used languages
 ![BOKO Marc GitHub stats](https://github-readme-stats.vercel.app/api?username=boko-marc&show_icons=true&hide_border=true&&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=truetheme=transparent)
 
 ### Top langs
