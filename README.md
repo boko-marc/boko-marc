@@ -14,7 +14,9 @@ Backend Software Engineer
 
 ---
 *   🌍  I work remotely.
-*     🔭 Currently diving into Type script and Nest js.
+   
+*     🔭 Currently diving into Typescript and Nest js.
+  
 - 🎓 I have a Bachelor's degree in Applied Mathematics and Computer Science.
 
 - 🎓 I have  a Coding Academy Certification in   software Enginner at EPITECH Benin [Epitech] Bénin (https://epitech.bj)
